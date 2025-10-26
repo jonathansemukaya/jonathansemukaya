@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 **jonathansemukaya/jonathansemukaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning all JavaScript, HTML, CSS and all things related to building an app. I am not yet very experienced with system design and infrastructure as I am self-taught via YouTube, but have worked on a few small projects, and currently I am working on an app with my brother. 
+🌱 I’m currently learning all JavaScript, HTML, CSS and all things related to building an app. I am not yet very experienced with system design and infrastructure as I am self-taught via YouTube, but have worked on a few small projects, and currently I am working on a platform for tech sales individuals who can use AI to tailor their CVs to specific job roles, and manage the job pipeline like a CRM with my brother!
+
+
 
 
